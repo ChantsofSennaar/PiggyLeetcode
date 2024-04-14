@@ -1,1 +1,3 @@
-# LeetcodeForFun
+# PiggyLeetcode
+
+Just for fun :)
