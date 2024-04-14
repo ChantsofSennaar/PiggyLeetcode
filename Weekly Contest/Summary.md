@@ -8,3 +8,6 @@ Weekly Contest 392
 - Finished on 04/10/2024
 - Difficulty: Easy
 
+Weekly Contest 393
+- Finished on 04/13/2024
+- Difficulty: Medium - Hard
